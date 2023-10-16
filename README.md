@@ -1,6 +1,6 @@
 # GymMernStackApp
-# Used Node.js, Express.js & MongoDB at the Backend
-# Used React.js at the Frontend
+ -> Used Node.js, Express.js & MongoDB at the Backend
+ -> Used React.js at the Frontend
 
 # Screenshots
 
