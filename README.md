@@ -1,4 +1,6 @@
-![Screenshot (25)](https://github.com/PiyushKhairnar53/GymMernStackApp/assets/41378449/66db6436-84ea-4cd1-9fa5-ee758b2a837e)﻿# GymMernStackApp
+# GymMernStackApp
+# Used Node.js, Express.js & MongoDB at the Backend
+# Used React.js at the Frontend
 
 # Screenshots
 
